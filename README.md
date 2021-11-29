@@ -28,15 +28,21 @@ I first import and prepare the data, then I use regex to clean the comments from
 The goal of this project was to come up with a method to perform spam analysis on popular YouTube music video comments. To do so, I created multiple classification models and identified the best one as both logistic regression and random forest models with both having a test accuracy of 88%. These models will allow the stakeholder to identify most spam comments correctly.
 
 ### For More Information
-Please review our full analysis in our [Jupyter Notebook]() or our [presentation]().
+Please review our full analysis in our [Jupyter Notebook](https://github.com/mfurkankolanci/CapstoneProject/blob/master/Spam_Analysis_on_YouTube_Comments.ipynb) or our [presentation](https://github.com/mfurkankolanci/CapstoneProject/blob/master/Capstone_MVP_Presentation.pdf).
 ### Repository Structure
 
 ```
 
-├── data <- folder that includes the five csv files that contain all the data
+├── Data <- Folder that includes the five csv files that contain all the data
+
+
+├── Capstone_MVP_Presentation.pdf <- The presentation in pdf format
 
 
 ├── README.md <- The top-level README for reviewers of this project, you are reading it right now
 
 
-└──  Spam_Analysis_on_YouTube_Comments.ipynb <- Jupyter Notebook
+├── Spam_Analysis_on_YouTube_Comments.ipynb <- Jupyter Notebook
+
+
+└── Spam_Analysis_on_YouTube_Comments.pdf <- Jupyter Notebook in pdf format
