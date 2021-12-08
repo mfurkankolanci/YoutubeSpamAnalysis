@@ -32,7 +32,7 @@ The top words and bigrams that are most important for spam detection show that s
 The best model generated has a test recall score of 78.8% and a test accuracy score of 93.6%.
 
 ### Conclusion 
-The goal of this project was to come up with a method to perform spam analysis on popular YouTube music video comments. To do so, I created multiple classification models and identified the best one as both logistic regression andthe random forest model with a test recall score of 78.8% and a test accuracy score of 93.6%. This model will allow the stakeholder to identify most spam comments correctly.
+The goal of this project was to come up with a method to perform spam analysis on popular YouTube music video comments. To do so, I created multiple classification models and identified the best one as the random forest model with a test recall score of 78.8% and a test accuracy score of 93.6%. This model will allow the stakeholder to identify most spam comments correctly.
 
 ### For More Information
 Please review the full analysis in the [Jupyter Notebook](https://github.com/mfurkankolanci/CapstoneProject/blob/master/notebook.ipynb) or the [presentation](https://github.com/mfurkankolanci/CapstoneProject/blob/master/presentation.pdf).
